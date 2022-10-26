@@ -11,8 +11,8 @@ const Navbar = () => {
           <p className="mr-1 cursor-pointer">
             <AiFillBehanceCircle size={25} />
           </p>
-          <p className="md:text-2xl text-2xl">
-            Best <span className="font-bold">Eats</span>
+          <p className="md:text-2xl text-2xl text-rose-500">
+            Best <span className="font-bold text-rose-600">Eats</span>
           </p>
         </div>
         <div className="hidden flex items-center justify-evenly sm:block ">
